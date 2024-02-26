@@ -1,0 +1,17 @@
+.huge{
+    color: red;
+    background-color: cyan;
+    font-size: 50px;
+}
+
+h2{
+    color: blue;
+}
+
+button{
+    color: yellow;
+}
+
+/* p{
+    color: yellowgreen;
+} */
